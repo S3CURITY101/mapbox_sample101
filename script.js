@@ -1,5 +1,5 @@
 mapboxgl.accessToken =
-  "pk.eyJ1IjoicnJlcGlzbyIsImEiOiJja3I5dXFqM2s0ZGhlMnJsZmE2eWNoMHoxIn0.dPi3PySHBHQ89abtIEZ3HA"
+  "pk.eyJ1IjoiYW50aXN0YXRpYzE4OSIsImEiOiJja3I5emxzdWQyZ3o4MnZwZGY4eHVmN3hwIn0.dawZ_CPyvNtZpO2GHkqpKQ"
 
 navigator.geolocation.getCurrentPosition(successLocation, errorLocation, {
   enableHighAccuracy: true
